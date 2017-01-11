@@ -871,7 +871,9 @@ textarea {
 .profile{
     line-height: 1.5;
     text-align: justify;
-    font-family: "poppins-regular", sans-serif;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    line-height: 1.4;
 }
 
 .omnifood {
