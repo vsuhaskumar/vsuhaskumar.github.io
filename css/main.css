@@ -154,9 +154,9 @@ p img {
 }
 
 .leadpara2 {
-    margin-left: 2%;
+    margin-left: 2.5%;
     font-family: "lora-regular", serif;
-	font-size: 2rem;
+	font-size: 1.75rem;
 	color: #888888;
 	padding-left: 13rem;
     word-spacing: 4px;
@@ -166,7 +166,7 @@ p img {
 }
 p.lead {
 	font-family: "lora-regular", serif;
-	font-size: 2rem;
+	font-size: 1.75rem;
 	line-height: 1;
 	color: #888888;
     word-spacing: 4px;
