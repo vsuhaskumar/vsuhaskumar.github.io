@@ -171,6 +171,7 @@ p.lead {
 	color: #888888;
     word-spacing: 4px;
     letter-spacing: 1px;
+    text-align: justify;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -2687,6 +2688,8 @@ footer .copyright span:last-child::after {
     color: #fff;
     
 }
+
+
 
 
 
