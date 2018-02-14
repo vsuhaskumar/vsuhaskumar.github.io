@@ -2390,12 +2390,12 @@ footer .copyright span:last-child::after {
 }
 
 .mancity {
-    height: 550px;
+    height: 610px;
     width: 100%;
 }
 
 .bank {
-    height: 537px;
+    height: 359px;
     width: 100%;
 }
 
@@ -2404,6 +2404,14 @@ footer .copyright span:last-child::after {
     width: 100%;
 }
 
+.OHMS {
+    height: 300px;
+    width: 100%;
+}
+
+.scratch {
+	width: 100%;
+}
 
 
 .inline {
