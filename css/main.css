@@ -2389,7 +2389,12 @@ footer .copyright span:last-child::after {
 }
 
 .mancity {
-    height: 613px;
+    height: 600px;
+    width: 100%;
+}
+
+.enroute {
+    height: 50%;
     width: 100%;
 }
 
